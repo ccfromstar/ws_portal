@@ -3125,6 +3125,11 @@ a.list-group-item-danger.active:focus {
     display: inline-block;
 }
 
+.diamond img{
+    transform: rotate(-45deg) !important;
+    display: inline-block;
+}
+
 .diamond.filled i{
     color: #ffffff;
 }
