@@ -104,10 +104,10 @@ button.navbar-toggle{
     text-align: left;
 }
 #featured-slider .carousel-caption span.lead{
-    border: 2px solid rgba(255,255,255,0.8);
-    padding: 5px 10px;
+    /*border: 2px solid rgba(255,255,255,0.8);*/
+    /*padding: 5px 10px;*/
     font-weight: 800;
-    font-size: 10pt;
+    font-size: 20pt;
     text-transform: uppercase;
     display: inline-block;
 }
@@ -271,7 +271,7 @@ button.navbar-toggle{
     display: block;
     background: #ffffff;
     padding: 10px 30px;
-    margin: 1px;
+    /*margin: 1px;*/
 }
 
 .ico-lg{
@@ -443,11 +443,11 @@ p.pac-info{
 }
 .header-top{
 	width:100%;
-	height:80px;
-	line-height: 80px;
+	height:85px;
+	line-height: 85px;
 	text-align: center;
 }
 .header-top img{
-	height:40px;	
+	height:80px;	
 }
 

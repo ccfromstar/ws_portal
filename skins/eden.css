@@ -3235,7 +3235,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel-subscribe .media img{
     max-width: 90px;
-    margin-left: 20px;
+    /*margin-left: 20px;*/
 }
 
 .panel-subscribe-alt .media *{
