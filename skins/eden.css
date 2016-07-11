@@ -3277,7 +3277,7 @@ a.list-group-item-danger.active:focus {
 }
 
 .panel-subscribe-vert .media .media-body{
-    padding: 20px;
+    /*padding: 20px;*/
     text-align: center;
 }
 
